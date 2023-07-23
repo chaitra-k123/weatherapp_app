@@ -3,7 +3,7 @@
 mkdir weather_app
 npx create-react-app weather_app
 cd weather_app
-npm start
+
 
 The installation process will start immediately and once completed, your react setup is successfully completed and it will redirect on your browser in localhost:3000.
 
